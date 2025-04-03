@@ -1,0 +1,21 @@
+/* Remove the background image */
+body {
+    background: url("images/apple.jpeg") no-repeat center center;
+    background-size: 150px; /* Adjust size as needed */
+    height: 100vh;
+    margin: 0;
+    padding-top: 100px;
+}
+
+
+/* Style for the heading */
+h1 {
+    color: black;
+    text-align: center;
+}
+
+/* Style for the list items */
+li a {
+    color: green;
+    text-decoration: none;
+}
